@@ -12,7 +12,7 @@ module WebApp
     config.load_defaults 6.1
 
     Rollbar.configure do |config|
-      config.access_token = 'c439d5e2bca24975885650908f471337'
+      config.access_token = '<yourToken>'
       config.branch = 'master'
       config.environment = 'prod'
       config.code_version = '1.1'
