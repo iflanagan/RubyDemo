@@ -1,0 +1,2 @@
+module RollbarRubyDemoHelper
+end
